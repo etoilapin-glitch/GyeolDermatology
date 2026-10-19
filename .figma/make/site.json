@@ -1,0 +1,10 @@
+{
+  "description": "Showcases dermatology clinic services, highlighting advanced equipment and expert specialists to attract and inform potential patients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
