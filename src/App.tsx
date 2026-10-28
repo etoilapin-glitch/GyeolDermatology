@@ -1020,7 +1020,7 @@ export default function App() {
             <div className="relative">
               <div className="aspect-[4/5] overflow-hidden bg-stone-300">
                 <img
-                  src="/doctor-profile.png"
+                  src="./doctor-profile.png"
                   alt="결 피부과 대표원장"
                   className="h-full w-full object-cover object-center"
                 />
