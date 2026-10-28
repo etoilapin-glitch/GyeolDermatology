@@ -725,7 +725,7 @@ export default function App() {
             aria-labelledby="promotion-title"
             className="pointer-events-auto flex max-h-[calc(100dvh-1.5rem)] w-full max-w-2xl flex-col overflow-hidden bg-[#f7f5ef] shadow-2xl sm:max-h-[calc(100dvh-3rem)]"
           >
-            <div className="relative shrink-0 overflow-hidden bg-teal-950 px-6 py-7 text-white sm:px-9 sm:py-9">
+            <div className="relative isolate shrink-0 overflow-hidden bg-teal-950 px-6 py-7 text-white sm:px-9 sm:py-9 [&>h2]:relative [&>h2]:z-10 [&>p]:relative [&>p]:z-10">
               <div className="absolute -top-16 -right-12 size-44 rounded-full border border-teal-300/15" />
               <div className="absolute -top-6 -right-2 size-24 rounded-full border border-teal-300/15" />
               <p className="text-[10px] font-semibold tracking-[0.24em] text-teal-300 uppercase">
